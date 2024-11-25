@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thakshila Gnanasekara</h1>
 <h3 align="center">Aspiring Research Software Engineer From Srilanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thakshila-tdg&label=Profile%20views&color=0e75b6&style=flat" alt="thakshila-tdg" /> </p>
+
 
 ### ⚙️ &nbsp; About Me :
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
