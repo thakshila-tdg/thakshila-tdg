@@ -6,7 +6,10 @@
 ### ⚙️ &nbsp; About Me :
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
+<p>I am Thakshila Gnanasekara, an undergraduate pursuing a Bachelor of Software Engineering. With a passion for front-end development, I have hands-on experience in creating responsive and dynamic websites using HTML, CSS,Boostrap and JavaScript.
 
+Looking forward to connecting with professionals in the tech industry to collaborate on exciting projects and expand my knowledge.</p>
+<br>
 - 🔭 I’m currently working on **Market Mingle**
 
 - 🌱 I’m currently learning **Java,Wordpress,Boostrap,Go,Saas,Typescript Js,**
