@@ -1,12 +1,5 @@
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
-
-<br/>
-<br/>
-<h1 align="center"> 👋, I'm Thakshila Gnanasekara</h1>
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<h1 align="center"> Hi 👋, I'm Thakshila Gnanasekara</h1>
 <h3 align="center">Aspiring Research Software Engineer From Srilanka</h3>
 
 
@@ -36,7 +29,17 @@ Looking forward to connecting with professionals in the tech industry to collabo
 
 - 📄 Know about my experiences [https://glittery-malabi-6a9f84.netlify.app/](https://glittery-malabi-6a9f84.netlify.app/)
 
+<div style="display: block;">
+<p>
 
+<p>
+    <a align="left">
+      <p><img align="left" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="josuerv99" /></p></a>
+     
+  </p>
+</p>
+</div>
 
 
 ### ⚙️ &nbsp; Connect with me :
@@ -49,10 +52,7 @@ Looking forward to connecting with professionals in the tech industry to collabo
 <br/>
 
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Niko-Cloud&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-alt="adam-pw"
-bg_color=#808080/>
+
 
 </div>
 
