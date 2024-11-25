@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Quote Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 20%;
+            background-color: #f0f8ff;
+            color: #333;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin-top: 20px;
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Random Quote Generator</h1>
+    <p id="quote">Click the button below to generate a random quote!</p>
+    <button onclick="displayQuote()">Generate Quote</button>
+
+    <script>
+        // Array of quotes
+        const quotes = [
+            "The only way to do great work is to love what you do. - Steve Jobs",
+            "Success is not the key to happiness. Happiness is the key to success. - Albert Schweitzer",
+            "It does not matter how slowly you go as long as you do not stop. - Confucius",
+            "Your time is limited, so don’t waste it living someone else’s life. - Steve Jobs",
+            "The best way to predict the future is to invent it. - Alan Kay"
+        ];
+
+        // Function to get a random quote
+        function getRandomQuote() {
+            const randomIndex = Math.floor(Math.random() * quotes.length);
+            return quotes[randomIndex];
+        }
+
+        // Function to display the random quote
+        function displayQuote() {
+            const quoteElement = document.getElementById('quote');
+            quoteElement.textContent = getRandomQuote();
+        }
+    </script>
+</body>
+</html>
