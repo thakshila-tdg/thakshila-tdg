@@ -4,7 +4,7 @@
 
 
 ### ⚙️ &nbsp; About Me :
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p
 
 <p>I am Thakshila Gnanasekara, an undergraduate pursuing a Bachelor of Software Engineering. With a passion for front-end development, I have hands-on experience in creating responsive and dynamic websites using HTML, CSS,Boostrap and JavaScript.
 
