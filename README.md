@@ -9,7 +9,7 @@
 ### ⚙️ &nbsp; About Me :
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p
 
-<p>I am Thakshila Gnanasekara, an undergraduate pursuing a Bachelor of Software Engineering. With a passion for front-end development, I have hands-on experience in creating responsive and dynamic websites using HTML, CSS,Boostrap and JavaScript.
+<p>I am Thakshila Gnanasekara, an undergraduate pursuing a Bachelor of Software Engineering. with a passion for front-end development, I have hands-on experience in creating responsive and dynamic websites using HTML, CSS,Boostrap and JavaScript.
 
 Looking forward to connecting with professionals in the tech industry to collaborate on exciting projects and expand my knowledge.</p>
 <br>
@@ -34,19 +34,17 @@ Looking forward to connecting with professionals in the tech industry to collabo
 <div style="display: block;">
 <p>
 
-<p>
-    <a align="left">
-      <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="josuerv99" /></p></a>
-     
-  </p>
-</p>
+
 </div>
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakshila-tdg&show_icons=true&locale=en&layout=compact" alt="thakshila-tdg" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thakshila-tdg&show_icons=true&locale=en" alt="thakshila-tdg" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakshila-tdg&" alt="thakshila-tdg" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thakshila-tdg" alt="thakshila-tdg" /></a> </p>
 
 
 
