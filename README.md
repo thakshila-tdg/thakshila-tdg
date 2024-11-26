@@ -39,11 +39,19 @@ Looking forward to connecting with professionals in the tech industry to collabo
 
 
 ### ⚙️ &nbsp; My Stats :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakshila-tdg&show_icons=true&locale=en&layout=compact&theme=dark" alt="thakshila-tdg" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakshila-tdg&show_icons=true&locale=en&layout=compact&theme=dark" 
+       alt="thakshila-tdg" width="400" height="200" />
+</p>                     
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thakshila-tdg&show_icons=true&locale=en&theme=dark" alt="thakshila-tdg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakshila-tdg&theme=dark" alt="thakshila-tdg" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakshila-tdg&theme=dark" 
+       alt="thakshila-tdg" width="400" height="200" />
+</p>
+
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
