@@ -44,6 +44,14 @@ Looking forward to connecting with professionals in the tech industry to collabo
 </div>
 
 
+
+
+
+
+
+
+
+
 ### ⚙️ &nbsp; Connect with me :
 <p align="left">
 <a href="https://linkedin.com/in/thakshila gnanasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thakshila gnanasekara" height="30" width="40" /></a>
