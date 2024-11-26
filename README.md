@@ -45,8 +45,12 @@ Looking forward to connecting with professionals in the tech industry to collabo
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakshila-tdg&theme=dark" alt="thakshila-tdg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakshila-tdg&" alt="thakshila-tdg" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thakshila-tdg" alt="thakshila-tdg" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thakshila-tdg&theme=darkhub" alt="thakshila-tdg" />
+  </a> 
+</p>
+
 
 
 
