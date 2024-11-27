@@ -15,7 +15,7 @@ Looking forward to connecting with professionals in the tech industry to collabo
 <br>
 - 🔭 I’m currently working on **Market Mingle**
 
-- 🌱 I’m currently learning **Java,JavaScript,Wordpress,Boostrap,Go,Saas,Typescript Js,**
+- 🌱 I’m currently learning **Java,Wordpress,Boostrap,Go,Saas,Typescript,Js,C++**
 
 - 👯 I’m looking to collaborate on **Market Mingle**
 
