@@ -21,7 +21,7 @@ Looking forward to connecting with professionals in the tech industry to collabo
 
 - 🤝 I’m looking for help with **Future Projects**
 
-- 👨‍💻 All of my projects are available at [https://charming-bonbon-b600ce.netlify.app/)
+- 👨‍💻 All of my projects are available at https://charming-bonbon-b600ce.netlify.app/
 
 - 📝 I regularly write articles on [https://medium.com/@thakshila.tdg7](https://medium.com/@thakshila.tdg7)
 
