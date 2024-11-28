@@ -137,9 +137,4 @@ Looking forward to connecting with professionals in the tech industry to collabo
 </p>
 
 
-### ⚙️ &nbsp; Support :
-
-<p align="left">
-<p><a href="https://www.buymeacoffee.com/thakshilatk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thakshilatk" /></a></p><br><br>
-
 
